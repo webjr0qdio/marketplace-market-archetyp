@@ -58,4 +58,6 @@ This guide is intended solely for educational purposes. The information is prese
 
 
 
-Update:  07/04/2025 04-25 Fantastic! The link is now responsive and working.
+
+
+Update:  07 July Hey everyone, the broken link has been fixed.
