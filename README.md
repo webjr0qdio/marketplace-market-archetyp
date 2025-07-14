@@ -60,4 +60,6 @@ This guide is intended solely for educational purposes. The information is prese
 
 
 
-Update:  07 July Hey everyone, the broken link has been fixed.
+
+
+Update: url is back up
